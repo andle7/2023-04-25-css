@@ -1,0 +1,33 @@
+body p {
+
+    color: blue;
+}
+
+h1 + p {
+    font-size: 5px;
+}
+
+.bigtitle {
+         font-size: 30px;
+}
+
+#bigid {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 32p;
+}
+
+.intro {
+    background-color: yellow;
+}
+
+#intro-for-id {
+    background-color: red;
+}
+
+section {
+    background-color: darkblue;
+}
+
